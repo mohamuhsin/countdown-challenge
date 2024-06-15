@@ -1,4 +1,4 @@
-# Refs and Portals
+# Refs and Portal
 ## What are Refs Why Do We Need them?
 
 In React, "refs" (short for references) provide a way to access and interact directly with DOM elements or React components. Normally, React manages all the DOM updates for you, but there are scenarios where you need to bypass this and directly access a DOM node or React component. Refs give you this ability.
